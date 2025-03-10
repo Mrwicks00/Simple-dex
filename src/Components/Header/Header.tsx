@@ -21,6 +21,8 @@ export const Logo = () => {
       <div className="img">
         <img src="/scrollswap.svg" alt="uniswap logo" className="" />
       </div>
+      /** There should be a path in the scrollswap header that links to the
+      homepage */
       <h3>ScrollSwap</h3>
     </LogoStyle>
   );
